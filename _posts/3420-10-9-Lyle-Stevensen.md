@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "October 9th 3420 | Lyle Stevensen | New Leyto"
 ---
 <p>It has been a hell of a few days since our last update. The good news is that we found a trading outpost with a pair of alien guides ironically named Lewis and Clark that claimed they could show us the way to the portal. The bad news is that the New Leyto sandstorm season is upon us that made flying there impossible; we would have to slowly drive a caravan across an area the size of the American West to get there.</p>
