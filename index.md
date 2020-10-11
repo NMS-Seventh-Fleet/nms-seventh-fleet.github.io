@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
-# This is also a test.
-
-I am typing this to test markdown. 
+# Testing Posts
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
