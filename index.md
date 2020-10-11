@@ -1,4 +1,6 @@
 ---
 layout: default
 ---
-<h1>This is a test.</h1>
+# This is also a test.
+
+I am typing this to test markdown. 
