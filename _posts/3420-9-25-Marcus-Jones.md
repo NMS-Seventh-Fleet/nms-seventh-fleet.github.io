@@ -1,9 +1,12 @@
 ---
 layout: default
-title:  "September 27th 3420 | Lyle Stevensen | New Leyto"
+title:  "September 25th 3420 | Marcus Jones| USS Absurdly Dignified"
 ---
 
-<p>I’ve just received word from Captain Jones that a suitable replacement planet has been located, Guythimar! We’ve been saved! I’ve given the team the portal coordinates. It will be imperative that we find the portal on New Leyto to aid in our escape. I’ve instructed Captain Jones to deconstruct what he can and rebuild the new base next to the portal on Guythimar. We will deconstruct our bases here on New Leyto and bring our supplies through the portal here to Guythimar, then will portal back to Sabn Omega to deconstruct our base there as well.</p>
+<p>Made my run to New Leyto to resupply Capt. Stevensen. Bad weather frustrated my landing attempts, so I had to switch to plan B: jettison the cargo pods and pray none of them landed on his head. I would have liked to see him face-to-face, but there will be time enough for that. Right now, as he reminded me, I need to focus on my mission: finding a new home planet.</p>
+
+<p>I began my search by visiting Radforr VIII, the heretofore uncharted fourth planet in the Sionek system. (Not sure how we missed it earlier...) Unfortunately, it was radioactive, very stormy, and inhabited by giant sandworms. This might take a while.</p>
+
 
 <!--more-->
 
