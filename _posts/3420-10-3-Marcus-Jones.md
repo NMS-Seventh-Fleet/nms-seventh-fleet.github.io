@@ -2,8 +2,7 @@
 layout: default
 title:  "October 3th 3420 | Marcus Jones | USS Absurdly Dignified"
 ---
-![Image of Captain Patterson and Captain Ray]
-(https://nms-seventh-fleet.github.io/images/jones_3420-10-03_001.png)
+![Image of Captain Patterson and Captain Ray](https://nms-seventh-fleet.github.io/images/jones_3420-10-03_001.png)
 
 <p>Another surprise today—Captain Patterson has returned to the local cluster! We rendezvoused in the Makvabar system. He still hasn't found a cure for the alien mutagen that turned him into a horrible fish-man, but otherwise he seemed in good health.</p>
 
@@ -11,24 +10,19 @@ title:  "October 3th 3420 | Marcus Jones | USS Absurdly Dignified"
 
 <p>Disappointed, I joined Patterson in surveying several new planets, including Eithon, a garden world in the Vodanda-Ilib XII system. I am astonished by how many of these planets we've overlooked in our own backyard. The local economy is only so-so, but the weather is fine and the wildlife is particularly striking.</p>
 
-![Image of Animal 1 on Eithon]
-(https://nms-seventh-fleet.github.io/images/jones_3420-10-03_002.png)
+![Image of Animal 1 on Eithon](https://nms-seventh-fleet.github.io/images/jones_3420-10-03_002.png)
 
-![Image of Animal 2 on Eithon]
-(https://nms-seventh-fleet.github.io/images/jones_3420-10-03_003.png)
+![Image of Animal 2 on Eithon](https://nms-seventh-fleet.github.io/images/jones_3420-10-03_003.png)
 
-![Image of Animal 3 on Eithon]
-(https://nms-seventh-fleet.github.io/images/jones_3420-10-03_004.png)
+![Image of Animal 3 on Eithon](https://nms-seventh-fleet.github.io/images/jones_3420-10-03_004.png)
 
 <p>On another planet, we found an enormous structure that served as a historical archive for the native Vy'keen.</p>
 
-![Image 1 of historical archive in the Vodanda-Ilib XII system ]
-(https://nms-seventh-fleet.github.io/images/jones_3420-10-03_005.png)
+![Image 1 of historical archive in the Vodanda-Ilib XII system](https://nms-seventh-fleet.github.io/images/jones_3420-10-03_005.png)
 
 <p>After some negotiation, they allowed us ten minutes of access to the main data core. I was hoping to dredge up some long-lost portal lore.</p>
 
-![Image 2 of historical archive in the Vodanda-Ilib XII system ]
-(https://nms-seventh-fleet.github.io/images/jones_3420-10-03_006.png)
+![Image 2 of historical archive in the Vodanda-Ilib XII system](https://nms-seventh-fleet.github.io/images/jones_3420-10-03_006.png)
 
 <p>But the archive interface AI had its own priorities. We left with a new appreciation for the finer points of Vy'keen poetry, and nothing more. </p>
 
