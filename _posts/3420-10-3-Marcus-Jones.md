@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "October 3th 3420 | Marcus Jones | USS Absurdly Dignified"
+title:  "October 3rd 3420 | Marcus Jones | USS Absurdly Dignified"
 ---
 ![Image of Captain Patterson and Captain Ray](https://nms-seventh-fleet.github.io/images/jones_3420-10-03_001.png)
 
