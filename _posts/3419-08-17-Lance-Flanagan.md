@@ -1,15 +1,9 @@
 ---
 layout: default
-title:  "September 23rd 3420 | Lyle Stevensen | New Leyto"
+title:  "August 17th 3419 | Lance Flanagan | USS For Pete's Sake"
 ---
 
-![Image of Base on New Leyto](https://nms-seventh-fleet.github.io/images/stevensen_3420-9-23_001.jpg)
-
-<p>…..shhhh…. do you copy….. ahh…. it’s working! 7th fleet if you can hear me? It appears as though the virus that had been plaguing our communication systems this year has been resolved by an unknown automatic update of some kind. We had ventured out to New Leyto to check on our mining operations and were stranded by a dust storm and then hit by a virus which prevented us from communicating or leaving the planet. Specialist Lucy clicked on some sort of unknown alien communication which completely shut us down. I guess after they found out we really weren’t paying their ransom, they let us off the hook!
-</p>
-
-<p>This update could not have come at a better time; our supplies are running dangerously low and I feared that we may have been lost forever. We desperately need to regroup the 7th fleet. Our capital ship is under repair at the moment, but we should be ready for departure by mid November, my how time flies. We will be returning to Sabn Omega shortly after. Stevensen out.</p>
-
+<p>Returned to my base today to find that someone had stolen my starship launch pad. I suspect Rear Admiral Stevensen. He probably “commandeered” it for “official fleet business” or something. Anyway, I built a new one and also found that my base had grown too big and required supplemental power sources, so I rigged that up too. For some reason my hydroponics trays are no longer functional. I’ll have to look into that later. [Edit note: The planet used to be abundant in Pure Ferrite, but all of those minerals have mysteriously vanished. New minerals appear in their place which only contain Ferrite Dust. Fortunately they refine at a rate of 1:1, so just a minor setback. I’ve also determined that my mining laser now does more damage the hotter it gets, dealing nearly 3x damage at maximum heat. Is this a side effect of the extensive modifications I’ve installed?] I wrapped up the day with a visit to Nada and Polo. Man they made some major updates to their ship. I wish they would share some more of that tech with me. On the plus side they did spot me an upgrade for my multitool that increases resource gathering by 50%. I may have to double up on that one!</p>
 
 <!--more-->
 

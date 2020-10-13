@@ -1,15 +1,9 @@
 ---
 layout: default
-title:  "September 23rd 3420 | Lyle Stevensen | New Leyto"
+title:  "August 19th 3419 | Marcus Jones | USS Absurdly Dignified"
 ---
 
-![Image of Base on New Leyto](https://nms-seventh-fleet.github.io/images/stevensen_3420-9-23_001.jpg)
-
-<p>…..shhhh…. do you copy….. ahh…. it’s working! 7th fleet if you can hear me? It appears as though the virus that had been plaguing our communication systems this year has been resolved by an unknown automatic update of some kind. We had ventured out to New Leyto to check on our mining operations and were stranded by a dust storm and then hit by a virus which prevented us from communicating or leaving the planet. Specialist Lucy clicked on some sort of unknown alien communication which completely shut us down. I guess after they found out we really weren’t paying their ransom, they let us off the hook!
-</p>
-
-<p>This update could not have come at a better time; our supplies are running dangerously low and I feared that we may have been lost forever. We desperately need to regroup the 7th fleet. Our capital ship is under repair at the moment, but we should be ready for departure by mid November, my how time flies. We will be returning to Sabn Omega shortly after. Stevensen out.</p>
-
+<p>Found and excavated a local ruin. I dug up a chest with a jar of skulls inside, which I sold for a lot of money. I'm curious as to what the buyer is planning to do with the skulls, but maybe it's for the best that I don't know. Aside from that, I made a quick trip to Pingwold V to mine some uranium, and I shaved a few extra pieces off my base to reclaim the carbon. Still have no idea how to re-power my hydroponics trays. The wiring on those things is a nightmare.</p>
 
 <!--more-->
 

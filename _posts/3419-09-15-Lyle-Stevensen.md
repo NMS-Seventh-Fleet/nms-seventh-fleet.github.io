@@ -1,14 +1,9 @@
 ---
 layout: default
-title:  "September 23rd 3420 | Lyle Stevensen | New Leyto"
+title:  "September 15th 3419 | Lyle Stevensen | USS Yorktown"
 ---
 
-![Image of Base on New Leyto](https://nms-seventh-fleet.github.io/images/stevensen_3420-9-23_001.jpg)
-
-<p>…..shhhh…. do you copy….. ahh…. it’s working! 7th fleet if you can hear me? It appears as though the virus that had been plaguing our communication systems this year has been resolved by an unknown automatic update of some kind. We had ventured out to New Leyto to check on our mining operations and were stranded by a dust storm and then hit by a virus which prevented us from communicating or leaving the planet. Specialist Lucy clicked on some sort of unknown alien communication which completely shut us down. I guess after they found out we really weren’t paying their ransom, they let us off the hook!
-</p>
-
-<p>This update could not have come at a better time; our supplies are running dangerously low and I feared that we may have been lost forever. We desperately need to regroup the 7th fleet. Our capital ship is under repair at the moment, but we should be ready for departure by mid November, my how time flies. We will be returning to Sabn Omega shortly after. Stevensen out.</p>
+<p>One of our crew members, Sargent Lucy was bitten by an alien while out on patrol. We rushed her to the operating room but it was too late, a baby alien was rapidly growing inside of her. Given that I was a skilled surgeon back on Earth, the crew agreed that I was the only one that could save her life so I performed the surgery alone. I had to make Lucy numb but awake. I held one of her hands while performing the surgery with the other. Something happened to me when I pulled the baby alien out of her abdomen with one hand. I felt an enormous sense of love for Lucy and the baby alien. I immediately collapsed to the ground in pure joy and passed out. It had nothing to do with all the blood. When I awoke, one of my hands was still holding onto Lucy and in the other the most beautiful alien that we’ve ever seen. Lucy looked at me an I looked at her. No more frost crystals for me I thought! I’ve got a family now!</p>
 
 
 <!--more-->
