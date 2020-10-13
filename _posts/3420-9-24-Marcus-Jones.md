@@ -9,14 +9,11 @@ title:  "September 24th 3420 | Marcus Jones | Sabn Omega"
 
 <p>It's horrible. I don't understand how the entire planet could have changed so quickly. Even the air has turned gray and sour.</p>
 
-![Image 1 of Base on Sabn Omega]
-(https://nms-seventh-fleet.github.io/images/jones_3420-9-24_001.png)
+![Image 1 of Base on Sabn Omega](https://nms-seventh-fleet.github.io/images/jones_3420-9-24_001.png)
 
-![Image 2 of Base on Sabn Omega]
-(https://nms-seventh-fleet.github.io/images/jones_3420-9-24_002.png)
+![Image 2 of Base on Sabn Omega](https://nms-seventh-fleet.github.io/images/jones_3420-9-24_002.png)
 
-![Image 3 of Base on Sabn Omega]
-(https://nms-seventh-fleet.github.io/images/jones_3420-9-24_003.png)
+![Image 3 of Base on Sabn Omega](https://nms-seventh-fleet.github.io/images/jones_3420-9-24_003.png)
 
 <p>Everyone at the trading post has fled. I don't blame them.</p>
 
