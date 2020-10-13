@@ -1,15 +1,9 @@
 ---
 layout: default
-title:  "September 23rd 3420 | Lyle Stevensen | New Leyto"
+title:  "September 1st 3419 | Lyle Stevensen | USS Yorktown"
 ---
 
-![Image of Base on New Leyto](https://nms-seventh-fleet.github.io/images/stevensen_3420-9-23_001.jpg)
-
-<p>…..shhhh…. do you copy….. ahh…. it’s working! 7th fleet if you can hear me? It appears as though the virus that had been plaguing our communication systems this year has been resolved by an unknown automatic update of some kind. We had ventured out to New Leyto to check on our mining operations and were stranded by a dust storm and then hit by a virus which prevented us from communicating or leaving the planet. Specialist Lucy clicked on some sort of unknown alien communication which completely shut us down. I guess after they found out we really weren’t paying their ransom, they let us off the hook!
-</p>
-
-<p>This update could not have come at a better time; our supplies are running dangerously low and I feared that we may have been lost forever. We desperately need to regroup the 7th fleet. Our capital ship is under repair at the moment, but we should be ready for departure by mid November, my how time flies. We will be returning to Sabn Omega shortly after. Stevensen out.</p>
-
+<p>I abruptly awoke on the bridge of the USS Yorktown at 3am. My room was full of smoke. I started to panic, then I realized that the smoke was just from the cigar that was burning in the ashtray near my bed. A perfectly safe place for an ashtray I thought to myself. I looked over in the bed next to me and saw the most beautiful alien life form sleeping next to me. After I rubbed my eyes, I realized I must have been hallucinating again. Damn frost crystals. Nothing in the bed except a yellow stain where I had pissed myself. Damn frost crystals. I got up to wash the sheets and grab a cold class of alien milk. As I came back from the mess hall, I stopped in front of the entrance to the bridge of the ship. This is why I love my job I thought as I stared out across the bridge of the ship at the vast star system that lay before us. We’ve been stationed in this star system for nearly a month. On Sabn Omega, we built one of the finest HQs in the fleet. Inside, we built a treasury to store a 1,000 units of 16 different resources. We also established a farm to harvest a crop of Starbulb. On New Leyto, we established a Uranium mine and gamma weed farm. Speaking of gamma weed, I haven’t yet tried to smoke that.... I headed back to bed..</p>
 
 <!--more-->
 
