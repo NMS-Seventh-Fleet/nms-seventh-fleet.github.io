@@ -11,8 +11,6 @@ title:  "September 29th 3420 | Lyle Stevensen | New Leyto"
 
 <p>Finally we have our son: “Logan Bob” or Lobo Stevensen. Lobo isn’t talented at anything yet, he is just a child. His spacesuit is yellow because it matches his favorite toy: a box of Cheerios.</p>
 
-![Image of Lobo on New Leyto](https://nms-seventh-fleet.github.io/images/image16.png)
-
 <p>There are a crew of 13 others with us but I am too tired to type and they are not that important.</p>
 
 <!--more-->
