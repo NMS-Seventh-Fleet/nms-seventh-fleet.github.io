@@ -7,8 +7,7 @@ title:  "September 27th 3420 | Marcus Jones | Guythimar"
 
 <p>Since a connection between two portals can be initiated from either end, I decided to start where I already was. With the aid of some charts purchased from the local space station, I was able to locate Guythimar's planetary portal.</p>
 
-![Image of Portal on Guythimar]
-(https://nms-seventh-fleet.github.io/images/jones_3420-9-27_001.png)
+![Image of Portal on Guythimar](https://nms-seventh-fleet.github.io/images/jones_3420-9-27_001.png)
 
 
 <p>Unfortunately, I couldn't decipher some of the glyphs in the portal interface. I'd already heard of these glyphs and even spent some time researching them, so I wasn't going in completely blind. Still, I couldn't figure out how to initiate a connection with New Leyto. I just didn't know enough.</p>
@@ -17,8 +16,7 @@ title:  "September 27th 3420 | Marcus Jones | Guythimar"
 
 <p>In the meantime, I've started work on the new base. It's rumored that portals release strange energies at the moment of activation, so to be safe, I'm building on the other side of a low ridge. If the walk proves too onerous, we can set up some short-range teleporters later.</p>
 
-![Image of Base on Guythimar]
-(https://nms-seventh-fleet.github.io/images/jones_3420-9-27_002.png)
+![Image of Base on Guythimar](https://nms-seventh-fleet.github.io/images/jones_3420-9-27_002.png)
 
 <p>The giant arrow isn't strictly necessary, but I'm hoping my fleetmates will get a kick out of it.</p>
 
