@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "September 23rd 3420 | Lyle Stevensen | New Leyto"
+title:  "August 3rd 3419 | Lyle Stevensen | New Leyto"
 ---
 
 ![Image of Base on Ipswi VIII](https://nms-seventh-fleet.github.io/images/stevensen_3419-8-3_001.jpg)
