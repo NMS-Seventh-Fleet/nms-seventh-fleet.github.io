@@ -13,7 +13,7 @@ title:  "October 15th 3420 | Marcus Jones | Guythimar"
 
 <p>I stripped what I could from the "Geronimo 4" base: the storage containers, plant cuttings, my workers' stations, most of the solar array. Left the empty buildings. They were mostly wood anyway, and I have no idea how to decontaminate wood short of burning it. And who knows, someone might stumble across the old place and put it to use—as an emergency shelter against the tentacles, if nothing else. I planted some message modules with directions to Guythimar, just in case.</p>
 
-![Image of room with message modules in "Geronimo 4" base](https://nms-seventh-fleet.github.io/images/jones_3420-10-15_001.png)
+![Image of room with message modules in "Geronimo 4" base](https://nms-seventh-fleet.github.io/images/jones_3420-10-15_002.png)
 
 <p>Anyway, the new base is shaping up to be even better than the old one. Next I'll start work on the bunkhouse, so Captain Stevensen and his crew will have somewhere to sleep.</p>
 
