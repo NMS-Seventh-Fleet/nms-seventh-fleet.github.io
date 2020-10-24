@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+{% include navigation.html %}
+
 # Captain's Log
 <ul>
   {% for post in site.posts %}
