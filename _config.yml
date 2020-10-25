@@ -1,2 +1,8 @@
+# General Settings
+title: NMS Seventh Fleet
+description: ""
+baseurl: ""
+url: ""
 theme: jekyll-theme-midnight
 excerpt_separator: <!--more-->
+permalink: pretty

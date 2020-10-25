@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>{{ page.title }}</title>
+        <link rel="stylesheet" href="/assets/css/main.css">
+        <meta charset="utf-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="copyright" content="NMS Seventh Fleet Github">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta property="og:site_name" content="NMS Seventh Fleet Github">
+        <meta property="og:title" content="{{ page.title }}">
+        <meta property="og:url" content="{{ page.url}}">
+        <meta property="og:type" content="website">
+        <meta property="og:description" content="{{ page.description}}">
+        <meta property="og:image" content="https://nms-seventh-fleet.github.io/images/jones_3420-10-03_001.png">
+        <meta itemprop="name" content="{{ page.title}}">
+        <meta itemprop="url" content="{{ page.url}}">
+        <meta itemprop="description" content="{{ page.description}}">
+        <meta itemprop="thumbnailUrl" content="https://nms-seventh-fleet.github.io/images/jones_3420-10-03_001.png">
+        <link rel="image_src" href="https://nms-seventh-fleet.github.io/images/jones_3420-10-03_001.png">
+        <meta itemprop="image" content="https://nms-seventh-fleet.github.io/images/jones_3420-10-03_001.png">
+        <meta name="twitter:title" content="{{ page.title}}">
+        <meta name="twitter:image" content="https://nms-seventh-fleet.github.io/images/jones_3420-10-03_001.png">
+        <meta name="twitter:url" content="{{ page.url}}">
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:description" content="{{ page.description}}">
+        <meta name="description" content="{{ page.description}}">
+        </head>
+    </head>
+    <body>
+        {% include header.html %}
+        <main>
+            {{ content }}
+        </main>
+        {% include footer.html %}
+    </body>
+</html>

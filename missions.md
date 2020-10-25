@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-{% include navigation.html %}
 
 # Mission Command
 
