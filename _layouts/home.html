@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+# Captain's Log
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <br>
+      <br>
+      <article>
+      {{ post.excerpt }}
+      </article>
+    </li>
+  {% endfor %}
+</ul>

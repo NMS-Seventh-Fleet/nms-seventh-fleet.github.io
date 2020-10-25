@@ -1,13 +1,62 @@
-<header>
-    <div class="site-name nav-link"><a href="{{ site.url }}">{{ site.title }}</a></div>
-    <nav>
-        <ul class="nav">
-            {% for item in site.data.navigation %}
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ item.path }}">{{ item.title }}</a>
-                </li>
-            {% endfor %}
-        </ul>
-    </nav>
-</header>
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta charset="utf-8">
+        <title>{{ page.title }}</title>
+        <meta charset="utf-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="copyright" content="NMS Seventh Fleet Github">
+        <meta property="og:site_name" content="NMS Seventh Fleet Github">
+        <meta property="og:title" content="{{ page.title }}">
+        <meta property="og:url" content="{{ page.url}}">
+        <meta property="og:type" content="website">
+        <meta property="og:description" content="{{ page.description}}">
+        <meta property="og:image" content="https://nms-seventh-fleet.github.io/images/jones_3420-10-03_001.png">
+        <meta itemprop="name" content="{{ page.title}}">
+        <meta itemprop="url" content="{{ page.url}}">
+        <meta itemprop="description" content="{{ page.description}}">
+        <meta itemprop="thumbnailUrl" content="https://nms-seventh-fleet.github.io/images/jones_3420-10-03_001.png">
+        <link rel="image_src" href="https://nms-seventh-fleet.github.io/images/jones_3420-10-03_001.png">
+        <meta itemprop="image" content="https://nms-seventh-fleet.github.io/images/jones_3420-10-03_001.png">
+        <meta name="twitter:title" content="{{ page.title}}">
+        <meta name="twitter:image" content="https://nms-seventh-fleet.github.io/images/jones_3420-10-03_001.png">
+        <meta name="twitter:url" content="{{ page.url}}">
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:description" content="{{ page.description}}">
+        <meta name="description" content="{{ page.description}}">
+        {% seo %}
+        <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+        <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+        <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
+        <!--[if lt IE 9]>
+            <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        <!--[if lt IE 8]>
+        <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
+        <![endif]-->
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    </head>
+    <header>
+        <div class="site-name nav-link"><a href="{{ site.url }}">{{ site.title }}</a></div>
+        <nav>
+            <ul class="nav">
+                {% for item in site.data.navigation %}
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ item.path }}">{{ item.title }}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </nav>
+        <div id="title">
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+            <p>{{site.description | default: site.github.project_tagline }}</p>
+            <hr>
+            <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
+            <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+        </div>
+    </header>
+<body>
 

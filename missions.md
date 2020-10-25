@@ -1,5 +1,8 @@
 ---
 layout: default
+title: Mission Command
+description: The current objectives of the Seventh Fleet.
+permalink: /missions/
 ---
 
 # Mission Command
