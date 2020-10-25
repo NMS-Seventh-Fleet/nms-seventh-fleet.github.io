@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "September 23rd 3420 | Marcus Jones | Sabn Omega"
 ---
 

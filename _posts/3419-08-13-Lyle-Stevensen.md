@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "August 13th 3419 | Lyle Stevensen | IPSWI VIII "
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "July 29th 3419 | Fleet Admiral John Cummings | USS Alamo"
 ---
 

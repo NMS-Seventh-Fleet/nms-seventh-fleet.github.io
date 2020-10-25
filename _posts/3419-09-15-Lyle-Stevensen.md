@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "September 15th 3419 | Lyle Stevensen | USS Yorktown"
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "August 23rd 3419 | Lyle Stevensen | Sabn Omega"
 ---
 

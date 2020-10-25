@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "August 3rd 3419 | Marcus Jones | Ipswi VIII"
 ---
 <p>Dang virus. Wiped my logs AGAIN. Backups too. Where was I...</p>

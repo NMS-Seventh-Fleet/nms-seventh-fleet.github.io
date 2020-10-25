@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "September 20th 3419 | Marcus Jones | USS Absurdly Dignified"
 ---
 

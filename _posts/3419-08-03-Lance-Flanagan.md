@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "August 3rd 3419 | Lance Flanagan | USS For Pete's Sake"
 ---
 
