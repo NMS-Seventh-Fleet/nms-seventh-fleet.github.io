@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "August 7th 3419 | Marcus Jones | USS Yorktown"
 ---
 

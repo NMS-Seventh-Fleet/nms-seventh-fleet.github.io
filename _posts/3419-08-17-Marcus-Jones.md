@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "August 17th 3419 | Marcus Jones | Ipswi VIII"
 ---
 

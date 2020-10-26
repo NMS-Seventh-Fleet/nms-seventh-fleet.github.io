@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "August 8th 3419 | Lyle Stevensen | New Leyto"
 ---
 

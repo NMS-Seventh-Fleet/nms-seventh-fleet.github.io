@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "September 27th 3420 | Marcus Jones | Guythimar"
 ---
 

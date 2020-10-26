@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "August 24th 3419 | Marcus Jones | The Anomaly"
 ---
 
