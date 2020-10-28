@@ -2,3 +2,5 @@
   path: /
 - title: Missions
   path: /missions/
+- title: Colonies
+  path: /colonies/
