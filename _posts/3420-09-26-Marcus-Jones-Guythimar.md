@@ -3,9 +3,9 @@ layout: post
 title:  "September 26th 3420 | Marcus Jones | Guythimar"
 founder: Marcus Jones
 category: Colonies
-tag: Ajauri
-
-
+system: Ajauri
+location: portalUrl
+economy: test
 ---
 
 ![Image of First Landing at Guythimar](https://nms-seventh-fleet.github.io/images/jones_3420-9-26_001.png)
