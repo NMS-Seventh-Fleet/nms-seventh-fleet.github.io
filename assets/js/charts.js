@@ -3,14 +3,14 @@
 
       function drawChart() {
         var data = google.visualization.arrayToDataTable([
-          ['Age', 'Guythimar'],
+          ['Age', 'Ajauri'],
           [ 3425,      -3136],
         ]);
 
         var options = {
         
-          hAxis: {minValue: -6000, maxValue: 6000, gridlines: {color: '#252525'}, minorGridlines: {color: '#252525'}, baseline: {color: 'white'} },
-          vAxis: {minValue: -6000, maxValue: 6000, gridlines:{color: '#252525'}, minorGridlines: {color: '#252525'}, baseline: {color: 'white'}  },
+          hAxis: {minValue: -6000, maxValue: 6000, gridlines: {color: '#252525'}, minorGridlines: {color: '#252525'} },
+          vAxis: {minValue: -6000, maxValue: 6000, gridlines:{color: '#252525'}, minorGridlines: {color: '#252525'} },
           legend: 'none',
           backgroundColor:'#252525',
           pointShape: 'star',
