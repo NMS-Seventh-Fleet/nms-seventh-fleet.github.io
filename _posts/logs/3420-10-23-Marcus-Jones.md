@@ -1,7 +1,11 @@
 ---
-layout: post
-title:  "October 23rd 3420 | Marcus Jones | Guythimar"
+layout: post-log
+title:  "October 23rd 3420 | Marcus Jones"
 category: logs
+log-region: Ajauri
+log-system: Bloche-Vut
+log-location: Guythimar
+log-coordinates: 501AF9441562
 ---
 
 <p>I've reestablished contact with Captain Stevensen. He's dangerously low on supplies. I would fly over and drop some off, as I did before, but that's suddenly gotten a lot more complicated.</p>
