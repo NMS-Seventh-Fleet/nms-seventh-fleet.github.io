@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "September 24th 3420 | Marcus Jones | Sabn Omega"
+category: logs
 ---
 
 <p>I woke up when a tentacle tried to strangle me.</p>

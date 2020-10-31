@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "August 23rd 3419 | Lyle Stevensen | Sabn Omega"
+category: logs
 ---
 
 ![Image of Base on New Leyto](https://nms-seventh-fleet.github.io/images/stevensen_3419-08-23_001.jpg)

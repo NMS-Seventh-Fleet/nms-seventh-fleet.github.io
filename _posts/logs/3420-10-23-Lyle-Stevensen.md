@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "October 23rd 3420 | Lyle Stevensen | New Leyto"
+category: logs
 ---
 
 <p>More bad news. We ran out of food supplies and had to resort to hunting and scavenging local food supplies. Given that we are not familiar with this planet nor its lifeforms, one of us had to volunteer to be the “poison tester”. Steve, feeling extremely lucky and blessed to be alive, eagerly volunteered for this task.</p>

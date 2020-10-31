@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "August 7th 3419 | Lyle Stevensen | Ipswi VIII"
+category: logs
 ---
 
 ![Image of Planet New Yelsha](https://nms-seventh-fleet.github.io/images/stevensen_3419-08-07_001.jpg)

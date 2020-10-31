@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "August 11th 3419 | Marcus Jones | Ipswi VIII "
+category: logs
 ---
 
 <p>After hitting nothing but dead ends on the advanced-ion-battery front, I decided to postpone my auto-miner project and headed to Ipswi VIII to mine some paraffinium by hand. Unfortunately, when I got back to base and started to expand my star bulb plantings, I found that I was also desperately short of star bulb cuttings. So back to Ipswi VIII I went. What followed was a long series of short hops across the planet surface, looking for star bulb groves. I raided several manufacturing facilities along the way, and while none of them had the advanced ion battery blueprint I wanted, a few stocked the batteries themselves. I had three batteries by the time I rounded up enough star bulb cuttings to return to base.</p>

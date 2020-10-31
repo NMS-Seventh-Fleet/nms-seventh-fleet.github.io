@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "August 17th 3419 | Marcus Jones | Ipswi VIII"
+category: logs
 ---
 
 <p>Everything in my base broke.</p>

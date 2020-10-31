@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "August 9th 3419 | Lance Flanagan | Lepusch"
+category: logs
 ---
 
 

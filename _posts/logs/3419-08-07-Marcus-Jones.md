@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "August 7th 3419 | Marcus Jones | USS Yorktown"
+category: logs
 ---
 
 <p>Captain Stevensen invited Captain Flanagan and myself aboard his freighter in the Ektion system, so that we might warp to a new system in search of uranium. I stepped aboard very gingerly, remembering the fiasco of my last ride with him. Fortunately I was able to make it from the hangar to the bridge without incident. Captain Flanagan was not so lucky; he only made it halfway before he got ejected into the vacuum of space. I swear that monstrosity is held together with scotch tape and twist ties. Either that, or it's deliberately booby-trapped. (Frankly I wouldn't put it past Captain Stevensen.)</p>

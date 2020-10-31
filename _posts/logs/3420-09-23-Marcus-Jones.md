@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "September 23rd 3420 | Marcus Jones | Sabn Omega"
+category: logs
 ---
 
 <p>I've discovered that I don't have any logs from the past year. No, it wasn't a virus this time. I bought a speech-to-text plugin for my suit software some time back, and it has some very odd default settings, which I didn't notice until now. Settings like "always overwrite the previous file" and "transcribe the user's snoring, it might be an unknown language." Sigh.</p>

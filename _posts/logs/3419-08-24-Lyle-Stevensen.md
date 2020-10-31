@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "August 24th 3419 | Lyle Stevensen | Oniquer Tau"
+category: logs
 ---
 
 ![Image of Base on New Leyto](https://nms-seventh-fleet.github.io/images/stevensen_3419-8-24_001.jpg)

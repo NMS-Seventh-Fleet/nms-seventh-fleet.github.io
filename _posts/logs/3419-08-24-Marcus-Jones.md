@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "August 24th 3419 | Marcus Jones | The Anomaly"
+category: logs
 ---
 
 <p>The anomaly was a kind of space station that seems to have warp capabilities. Particularly ugly on the outside, but the inside was stunningly advanced. Makes the other stations look like country stores. It also seems that the interior might be bigger than the exterior? I'll have to take some measurements next time I visit.</p>

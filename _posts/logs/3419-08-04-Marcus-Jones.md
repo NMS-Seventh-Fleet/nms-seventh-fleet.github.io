@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "August 4th 3419 | Marcus Jones | Ipswi VIII"
+category: logs
 ---
 
 <p>My scientist finally gave me the plans for a circuit board. Apparently his mind was elsewhere. Literally - he told me that he uploaded his mind to another star system for a vacation and left his body here in the base. For three days. The "conversations" we had were just his species' equivalent of "To leave a voicemail, press 1 now". I'm sure he's laughing at me now, assuming that Korvax can laugh. </p>

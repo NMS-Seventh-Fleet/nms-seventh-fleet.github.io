@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "October 23rd 3420 | Marcus Jones | Guythimar"
+category: logs
 ---
 
 <p>I've reestablished contact with Captain Stevensen. He's dangerously low on supplies. I would fly over and drop some off, as I did before, but that's suddenly gotten a lot more complicated.</p>

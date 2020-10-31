@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "October 15th 3420 | Marcus Jones | Guythimar"
+category: logs
 ---
 
 <p>I'm still waiting for this "portal expert" to actually pick a time and place to meet; he’s rescheduled three times so far. Not that the delays matter much, since Captain Stevensen is apparently stuck in a sandstorm. I say "apparently" because there's no way he can get a signal out though that weather. I can't even determine his location. I hope he's doing all right.</p>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "September 29th 3420 | Lyle Stevensen | New Leyto"
+category: logs
 ---
 
 <p>We are ready to embark on the month long journey to find the portal on New Leyto. The only problem is, we don’t have a working economy scanner. Hopefully this isn’t like finding a needle in a haystack! I’ve sent word to Captain Jones to test the portal on Guythimar to make sure that it works. As you know, before any long journey, we must update the log with who is on the risky mission in case any of us get lost.</p>

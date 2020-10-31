@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "September 27th 3420 | Marcus Jones | Guythimar"
+category: logs
 ---
 
 <p>Guythimar it is! But we have another problem. Capt. Stevensen's family situation has limited his transport options: he told me that the standard teleporters do not recognize his baby alien's bio-signature, and hyperspace travel would be dangerous for one so young. Hence, his insistence on using the ancient planetary portal network. It's the only way to get the child out of the Sionek system.</p>

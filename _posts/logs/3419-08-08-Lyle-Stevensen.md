@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "August 8th 3419 | Lyle Stevensen | New Leyto"
+category: logs
 ---
 
 ![Image of Base on New Leyto](https://nms-seventh-fleet.github.io/images/stevensen_3420-9-23_001.jpg)

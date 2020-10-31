@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "August 11th 3419 | Lyle Stevensen | Erittlei Major "
+category: logs
 ---
 
 ![Image of Pilot Lyle Stevensen](https://nms-seventh-fleet.github.io/images/stevensen_3419-08-11_001.jpg)

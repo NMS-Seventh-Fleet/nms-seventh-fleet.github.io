@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "September 25th 3420 | Lyle Stevensen | New Leyto"
+category: logs
 ---
 
 <p>I’ve been reading over the reports coming from Captain Jones and it doesn’t look good. It appears that the weather system on Sabn Omega has suddenly changed for the worst and is no longer sustainable. I have also received word that our ship repairs will be delayed.</p>

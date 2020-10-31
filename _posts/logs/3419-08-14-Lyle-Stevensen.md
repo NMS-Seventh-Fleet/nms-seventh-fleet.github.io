@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "August 14th 3419 | Lyle Stevensen | Sabn Omega"
+category: logs
 ---
 
 ![Image of Base on Sabn Omega](https://nms-seventh-fleet.github.io/images/stevensen_3419-8-14_001.jpg)

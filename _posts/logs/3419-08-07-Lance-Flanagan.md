@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "August 7th 3419 | Lance Flanagan | USS For Pete's Sake"
+category: logs
 ---
 
 <p>Today’s events started with a distress signal from Capt Stevensen. Apparently he had fallen into a sticky situation with a sentinel walker, but by the time I got the old ship online, he managed to escape home. I was in need of Paraffinium in order to plant Star Bulb, so I teleported to Stevensen’s HQ, because I knew his moon was rich with it. We set out together in our Roamers, and it turns out I had already mined most of the Paraffinium in the area, so our journey took some time. We also were able to use the advanced scanner on the Roamer to locate a drop pod! Capt Jones warped into the area and we determined it best to board Capt Stevensen’s freighter and explore a new system. Shortly before departing, I was minding my own business aboard the freighter when Capt Jones saw fit to somehow toss me out the airlock where I nearly died. I’m still not sure exactly what happened, but he claims it was an accident. I’ll have to keep my eye on him.</p>

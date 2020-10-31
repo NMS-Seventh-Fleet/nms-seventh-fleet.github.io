@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "September 26th 3420 | Marcus Jones | Guythimar"
+category: logs
 ---
 
 <p>We've had a stroke of luck. I found a strong candidate for resettlement back in the Bloche-Vut system, only 122 light years from our current home.</p>
