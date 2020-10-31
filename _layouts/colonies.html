@@ -13,7 +13,7 @@ layout: default
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
     <br>
-    <p>System: {{ post.system }} | <a href="{{ post.location }}"> Location: {{ post.location }}</a> | Economy: {{ post.economy }}</p>
+    <p>Region: {{ post.colony-region }} | System: {{ post.colony-system }} | <a href="https://galacticatlas.nomanssky.com/me/{{ post.colony-coordinates }}">Coordinates</a> | Economy: {{ post.colony-economy }}</p>
     <article>
     {{ post.excerpt }}
     </article>
