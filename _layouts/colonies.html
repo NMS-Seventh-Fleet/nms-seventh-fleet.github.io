@@ -8,18 +8,15 @@ layout: default
 <div id="chart_div" style="width: 900px; height: 500px;"></div>
 <br>
 <h2>Colony Details</h2>
-{% for category in site.categories %}
-  <ul>
-    {% for post in category[1] %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <br>
-      <p>System: {{ post.system }} | <a href="{{ post.location }}"> Location: {{ post.location }}</a> | Economy: {{ post.economy }}</p>
-      <article>
-      {{ post.excerpt }}
-      </article>
-    </li>
-    {% endfor %}
-  </ul>
-{% endfor %}
-
+<ul>
+  {% for post in site.categories.Colonies %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <br>
+    <p>System: {{ post.system }} | <a href="{{ post.location }}"> Location: {{ post.location }}</a> | Economy: {{ post.economy }}</p>
+    <article>
+    {{ post.excerpt }}
+    </article>
+  </li>
+  {% endfor %}
+</ul>
