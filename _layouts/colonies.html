@@ -2,18 +2,18 @@
 layout: default
 ---
 <h1>Colonies</h1>
+<br>
 <h2>Galactic Map</h2>
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="../assets/js/charts.js"></script>
-<div id="chart_div" style="width: 900px; height: 500px;"></div>
+<div id="chart_div" style="width:100%; height: 400px;"></div>
 <br>
 <h2>Colony Details</h2>
 <ul>
   {% for post in site.categories.Colonies %}
   <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    <br>
-    <p>Region: {{ post.colony-region }} | System: {{ post.colony-system }} | <a href="https://galacticatlas.nomanssky.com/me/{{ post.colony-coordinates }}">Coordinates</a> | Economy: {{ post.colony-economy }}</p>
+    <p><a href="{{ post.url }}">Region: {{ post.colony-region }} | System: {{ post.colony-system }} | Location: {{ post.colony-location }}</a></p> 
+    <p><a href="https://galacticatlas.nomanssky.com/me/{{ post.colony-coordinates }}">Coordinates</a></p>
     <article>
     {{ post.excerpt }}
     </article>
