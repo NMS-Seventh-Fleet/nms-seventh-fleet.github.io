@@ -6,6 +6,7 @@ category: Colonies
 colony-founder: Marcus Jones
 colony-region: Ajauri
 colony-system: Bloche-Vut
+colony-location: Guythimar
 colony-coordinates: 501AF9441562
 colony-economy: "Advanced Materials (Wealth 3)"
 ---
