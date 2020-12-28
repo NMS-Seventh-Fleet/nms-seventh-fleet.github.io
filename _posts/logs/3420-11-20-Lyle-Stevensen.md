@@ -13,7 +13,7 @@ log-coordinates: 501AF9441562
 
 <p>Captain Jones and I finished unpacking my base on Guythimar. Bat cave 2 has been deployed. We set off across the planet and discovered a few waypoints.</p>
 
-<p>The Guythimar base received a faint signal from.... Captain Flanagan! Damn it! I’m going to have to return his captains chair. I still have a few hours yet to enjoy it.</p>
+<p>The Guythimar base received a faint signal from.... Captain Flanagan! Damn it! I’m going to have to return his captain’s chair. I still have a few hours yet to enjoy it.</p>
 
 
 <!--more-->
