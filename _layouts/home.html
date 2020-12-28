@@ -1,9 +1,17 @@
 ---
 layout: default
+posts-per-page: 5
+page-number: 3
+foo: "bar"
 ---
 <H1>Captain's Log</H1>
+<p>posts-per-page: {{layout.posts-per-page}}</p>
+<p>page-number: {{layout.page-number}}</p>
+<p>foo: {{ layout.foo }}</p>
+{% assign post_offset_number = layout.posts-per-page | times: layout.page-number | minus: layout.posts-per-page %}
+<p>post_offset_number: {{ post_offset_number }}</p>
 <ul>
-  {% for post in site.categories.logs %}
+  {% for post in site.categories.logs limit:layout.posts-per-page offset:post_offset_number %}
     <li>
       <p><a href="{{ post.url }}">{{ post.title }} | Region: {{ post.log-region }} | System: {{ post.log-system }} | Location: {{ post.log-location }}</a></p> 
       <p><a href="https://galacticatlas.nomanssky.com/me/{{ post.log-coordinates }}">Coordinates</a></p>
